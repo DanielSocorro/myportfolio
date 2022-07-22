@@ -4234,7 +4234,6 @@ input[type="button"].btn--primary:focus {
 
 /* ------------------------------------------------------------------- 
  * responsive:
- * testimonials
  * ------------------------------------------------------------------- */
 @media screen and (max-width: 800px) {
     .testimonial-slider__slide {
