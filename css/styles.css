@@ -3403,12 +3403,12 @@ input[type="button"].btn--primary:focus {
 }
 
 .s-hero__content h1 {
-    font-size: 9.2rem;
+    font-size: 4.2rem;
     font-weight: 600;
     letter-spacing: -.04em;
     line-height: 1;
     color: white;
-    margin-top: 0;
+    margin-top: -13rem;
     margin-bottom: 0;
 }
 
@@ -3418,7 +3418,7 @@ input[type="button"].btn--primary:focus {
     font-size: 2.4rem;
     line-height: 1.667;
     color: rgb(255, 255, 255);
-    margin-top: -54px;
+    margin-top: 1rem;
     margin-right: auto;
     margin-left: auto;
     padding-bottom: var(--vspace-1);
@@ -3472,6 +3472,10 @@ input[type="button"].btn--primary:focus {
 
 .s-hero__content-social a:last-child {
     margin-right: 0;
+}
+.colum .job-description h1 {
+    font-size: 1rem;
+    margin-top: -43rem;
 }
 
 /* ------------------------------------------------------------------- 
@@ -3581,7 +3585,7 @@ input[type="button"].btn--primary:focus {
  * ------------------------------------------------------------------- */
 @media screen and (max-width: 1600px) {
     .s-hero__content h1 {
-        font-size: 8.8rem;
+        font-size: 3.8rem;
     }
     .s-hero__content h3 {
         font-size: 2.2rem;
@@ -3590,7 +3594,7 @@ input[type="button"].btn--primary:focus {
 
 @media screen and (max-width: 1400px) {
     .s-hero__content h1 {
-        font-size: 8.4rem;
+        font-size: 3.4rem;
     }
     .s-hero__content h3 {
         font-size: 2rem;
@@ -3600,7 +3604,7 @@ input[type="button"].btn--primary:focus {
 
 @media screen and (max-width: 1200px) {
     .s-hero__content h1 {
-        font-size: 8rem;
+        font-size: 3rem;
     }
     .s-hero__content h3 {
         font-size: 1.9rem;
