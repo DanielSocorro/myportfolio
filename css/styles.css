@@ -3595,6 +3595,7 @@ input[type="button"].btn--primary:focus {
 @media screen and (max-width: 1400px) {
     .s-hero__content h1 {
         font-size: 3.4rem;
+        margin-top: -9%;
     }
     .s-hero__content h3 {
         font-size: 2rem;
@@ -3605,7 +3606,7 @@ input[type="button"].btn--primary:focus {
 @media screen and (max-width: 1200px) {
     .s-hero__content h1 {
         font-size: 3rem;
-      
+        margin-top: -9%;
     }
     .s-hero__content h3 {
         font-size: 1.9rem;
