@@ -3931,14 +3931,15 @@ input[type="button"].btn--primary:focus {
 
 .folio-item__thumb::after {
     z-index: 1;
-    content: "AfterGenesysBlock  Blog of the blockchain HTML5 | CSS3 | API ";
+    content: "AFTER GENESYS BLOCK \A Blog of the blockchain \A HTML5 | CSS3 | API ";
+    white-space: pre-wrap;
     font-family: var(--font-2);
-    font-weight: 300;
+    font-weight: 400;
     font-size: 1.5rem;
     color: white;
     display: block;
     height: 103%;
-    width: 81%;
+    width: 76%;
     line-height: 32px;
     opacity: 0;
     visibility: hidden;
@@ -3947,20 +3948,21 @@ input[type="button"].btn--primary:focus {
     -webkit-transition: all, 0.5s cubic-bezier(0.215, 0.61, 0.355, 1);
     transition: all, 0.5s cubic-bezier(0.215, 0.61, 0.355, 1);
     position: absolute;
-    left: 12%;
-    top: 22%;
+    left: 15%;
+    top: 19%;
 }
 .folio-item__thumb2::after {
     z-index: 1;
-    content: "Todo's React App Todo Signings of Manchester United HTML5 | CSS3 | REACT API-REST";
+    content: "TODO'S REACT APP \A Todo Signings of \A Manchester United \A HTML5 | CSS3 | REACT \A API-REST";
+    white-space: pre-wrap;
     font-family: var(--font-2);
-    font-weight: 300;
+    font-weight: 400;
     font-size: 1.5rem;
     color: white;
     display: block;
     height: 103%;
-    width: 75%;
-    line-height: 28px;
+    width: 76%;
+    line-height: 32px;
     opacity: 0;
     visibility: hidden;
     -webkit-transform: scale(0.5);
@@ -3968,19 +3970,20 @@ input[type="button"].btn--primary:focus {
     -webkit-transition: all, 0.5s cubic-bezier(0.215, 0.61, 0.355, 1);
     transition: all, 0.5s cubic-bezier(0.215, 0.61, 0.355, 1);
     position: absolute;
-    left: 12%;
-    top: 10%;
+    left: 15%;
+    top: 17%;
 }
 .folio-item__thumb3::after {
     z-index: 1;
-    content: "Platzi Conf Festival React App made from the ground \A REACT | HTML5 | CSS3 | JAVASCRIPT ";
+    content: "PLATZI CONF FEST \A E-commerce React App  \A REACT | HTML5 | CSS3  JAVASCRIPT ";
+    white-space: pre-wrap;
     font-family: var(--font-2);
-    font-weight: 300;
+    font-weight: 400;
     font-size: 1.5rem;
     color: white;
     display: block;
     height: 103%;
-    width: 81%;
+    width: 76%;
     line-height: 32px;
     opacity: 0;
     visibility: hidden;
@@ -3989,19 +3992,20 @@ input[type="button"].btn--primary:focus {
     -webkit-transition: all, 0.5s cubic-bezier(0.215, 0.61, 0.355, 1);
     transition: all, 0.5s cubic-bezier(0.215, 0.61, 0.355, 1);
     position: absolute;
-    left: 12%;
-    top: 10%;
+    left: 15%;
+    top: 17%;
 }
 .folio-item__thumb4::after {
     z-index: 1;
-    content: "Platzi Conf Festival React App from the ground. REACT | HTML5 | CSS3 | JAVASCRIPT ";
+    content: "SSGLOW \A E-commerce page \A HTML5 | CSS3 | JAVASCRIPT ";
+    white-space: pre-wrap;
     font-family: var(--font-2);
-    font-weight: 300;
+    font-weight: 400;
     font-size: 1.5rem;
     color: white;
     display: block;
     height: 103%;
-    width: 81%;
+    width: 76%;
     line-height: 32px;
     opacity: 0;
     visibility: hidden;
@@ -4010,19 +4014,20 @@ input[type="button"].btn--primary:focus {
     -webkit-transition: all, 0.5s cubic-bezier(0.215, 0.61, 0.355, 1);
     transition: all, 0.5s cubic-bezier(0.215, 0.61, 0.355, 1);
     position: absolute;
-    left: 12%;
-    top: 22%;
+    left: 15%;
+    top: 17%;
 }
 .folio-item__thumb5::after {
     z-index: 1;
-    content: "AfterGenesysBlock  Blog of the blockchain HTML5 | CSS3 | API ";
+    content: "3D CARDS \A Cards made from Star Wars Characters \A HTML5 | CSS3 | TWEEN.JS ";
+    white-space: pre-wrap;
     font-family: var(--font-2);
-    font-weight: 300;
+    font-weight: 400;
     font-size: 1.5rem;
     color: white;
     display: block;
     height: 103%;
-    width: 81%;
+    width: 76%;
     line-height: 32px;
     opacity: 0;
     visibility: hidden;
@@ -4031,19 +4036,20 @@ input[type="button"].btn--primary:focus {
     -webkit-transition: all, 0.5s cubic-bezier(0.215, 0.61, 0.355, 1);
     transition: all, 0.5s cubic-bezier(0.215, 0.61, 0.355, 1);
     position: absolute;
-    left: 12%;
-    top: 22%;
+    left: 15%;
+    top: 17%;
 }
 .folio-item__thumb6::after {
     z-index: 1;
-    content: "AfterGenesysBlock  Blog of the blockchain HTML5 | CSS3 | API ";
+    content: "MOVIES PAGE \A Classic Movie Page \A connect to The Movie DB \A HTML5 | CSS3 | API ";
+    white-space: pre-wrap;
     font-family: var(--font-2);
-    font-weight: 300;
+    font-weight: 400;
     font-size: 1.5rem;
     color: white;
     display: block;
     height: 103%;
-    width: 81%;
+    width: 76%;
     line-height: 32px;
     opacity: 0;
     visibility: hidden;
@@ -4052,19 +4058,20 @@ input[type="button"].btn--primary:focus {
     -webkit-transition: all, 0.5s cubic-bezier(0.215, 0.61, 0.355, 1);
     transition: all, 0.5s cubic-bezier(0.215, 0.61, 0.355, 1);
     position: absolute;
-    left: 12%;
-    top: 22%;
+    left: 15%;
+    top: 17%;
 }
 .folio-item__thumb7::after {
     z-index: 1;
-    content: "AfterGenesysBlock  Blog of the blockchain HTML5 | CSS3 | API ";
+    content: "DOGS APP  \A Favorites Dogs Page  \A HTML5 | CSS3 | API ";
+    white-space: pre-wrap;
     font-family: var(--font-2);
-    font-weight: 300;
+    font-weight: 400;
     font-size: 1.5rem;
     color: white;
     display: block;
     height: 103%;
-    width: 81%;
+    width: 76%;
     line-height: 32px;
     opacity: 0;
     visibility: hidden;
@@ -4073,19 +4080,21 @@ input[type="button"].btn--primary:focus {
     -webkit-transition: all, 0.5s cubic-bezier(0.215, 0.61, 0.355, 1);
     transition: all, 0.5s cubic-bezier(0.215, 0.61, 0.355, 1);
     position: absolute;
-    left: 12%;
-    top: 22%;
+    left: 15%;
+    top: 17%;
 }
 .folio-item__thumb8::after {
     z-index: 1;
-    content: "AfterGenesysBlock  Blog of the blockchain HTML5 | CSS3 | API ";
+    content: "AfterGenesysBlock \A  Blog of the blockchain \A HTML5 | CSS3 | API ";
+    text-align: center;
+    white-space: pre-wrap;
     font-family: var(--font-2);
-    font-weight: 300;
+    font-weight: 400;
     font-size: 1.5rem;
     color: white;
     display: block;
     height: 103%;
-    width: 81%;
+    width: 76%;
     line-height: 32px;
     opacity: 0;
     visibility: hidden;
@@ -4094,8 +4103,8 @@ input[type="button"].btn--primary:focus {
     -webkit-transition: all, 0.5s cubic-bezier(0.215, 0.61, 0.355, 1);
     transition: all, 0.5s cubic-bezier(0.215, 0.61, 0.355, 1);
     position: absolute;
-    left: 12%;
-    top: 22%;
+    left: 15%;
+    top: 17%;
 }
 .folio-item img {
     display: flex;
