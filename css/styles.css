@@ -3931,18 +3931,15 @@ input[type="button"].btn--primary:focus {
 
 .folio-item__thumb::after {
     z-index: 1;
-    content: "...";
+    content: "AfterGenesysBlock  Blog of the blockchain HTML5 | CSS3 | API ";
     font-family: var(--font-2);
     font-weight: 300;
-    font-size: 3rem;
+    font-size: 1.5rem;
     color: white;
     display: block;
-    height: 32px;
-    width: 32px;
+    height: 103%;
+    width: 81%;
     line-height: 32px;
-    margin-left: -16px;
-    margin-top: -16px;
-    text-align: center;
     opacity: 0;
     visibility: hidden;
     -webkit-transform: scale(0.5);
@@ -3950,10 +3947,156 @@ input[type="button"].btn--primary:focus {
     -webkit-transition: all, 0.5s cubic-bezier(0.215, 0.61, 0.355, 1);
     transition: all, 0.5s cubic-bezier(0.215, 0.61, 0.355, 1);
     position: absolute;
-    left: 50%;
-    top: 50%;
+    left: 12%;
+    top: 22%;
 }
-
+.folio-item__thumb2::after {
+    z-index: 1;
+    content: "Todo's React App Todo Signings of Manchester United HTML5 | CSS3 | REACT API-REST";
+    font-family: var(--font-2);
+    font-weight: 300;
+    font-size: 1.5rem;
+    color: white;
+    display: block;
+    height: 103%;
+    width: 75%;
+    line-height: 28px;
+    opacity: 0;
+    visibility: hidden;
+    -webkit-transform: scale(0.5);
+    transform: scale(0.5);
+    -webkit-transition: all, 0.5s cubic-bezier(0.215, 0.61, 0.355, 1);
+    transition: all, 0.5s cubic-bezier(0.215, 0.61, 0.355, 1);
+    position: absolute;
+    left: 12%;
+    top: 10%;
+}
+.folio-item__thumb3::after {
+    z-index: 1;
+    content: "Platzi Conf Festival React App made from the ground \A REACT | HTML5 | CSS3 | JAVASCRIPT ";
+    font-family: var(--font-2);
+    font-weight: 300;
+    font-size: 1.5rem;
+    color: white;
+    display: block;
+    height: 103%;
+    width: 81%;
+    line-height: 32px;
+    opacity: 0;
+    visibility: hidden;
+    -webkit-transform: scale(0.5);
+    transform: scale(0.5);
+    -webkit-transition: all, 0.5s cubic-bezier(0.215, 0.61, 0.355, 1);
+    transition: all, 0.5s cubic-bezier(0.215, 0.61, 0.355, 1);
+    position: absolute;
+    left: 12%;
+    top: 10%;
+}
+.folio-item__thumb4::after {
+    z-index: 1;
+    content: "Platzi Conf Festival React App from the ground. REACT | HTML5 | CSS3 | JAVASCRIPT ";
+    font-family: var(--font-2);
+    font-weight: 300;
+    font-size: 1.5rem;
+    color: white;
+    display: block;
+    height: 103%;
+    width: 81%;
+    line-height: 32px;
+    opacity: 0;
+    visibility: hidden;
+    -webkit-transform: scale(0.5);
+    transform: scale(0.5);
+    -webkit-transition: all, 0.5s cubic-bezier(0.215, 0.61, 0.355, 1);
+    transition: all, 0.5s cubic-bezier(0.215, 0.61, 0.355, 1);
+    position: absolute;
+    left: 12%;
+    top: 22%;
+}
+.folio-item__thumb5::after {
+    z-index: 1;
+    content: "AfterGenesysBlock  Blog of the blockchain HTML5 | CSS3 | API ";
+    font-family: var(--font-2);
+    font-weight: 300;
+    font-size: 1.5rem;
+    color: white;
+    display: block;
+    height: 103%;
+    width: 81%;
+    line-height: 32px;
+    opacity: 0;
+    visibility: hidden;
+    -webkit-transform: scale(0.5);
+    transform: scale(0.5);
+    -webkit-transition: all, 0.5s cubic-bezier(0.215, 0.61, 0.355, 1);
+    transition: all, 0.5s cubic-bezier(0.215, 0.61, 0.355, 1);
+    position: absolute;
+    left: 12%;
+    top: 22%;
+}
+.folio-item__thumb6::after {
+    z-index: 1;
+    content: "AfterGenesysBlock  Blog of the blockchain HTML5 | CSS3 | API ";
+    font-family: var(--font-2);
+    font-weight: 300;
+    font-size: 1.5rem;
+    color: white;
+    display: block;
+    height: 103%;
+    width: 81%;
+    line-height: 32px;
+    opacity: 0;
+    visibility: hidden;
+    -webkit-transform: scale(0.5);
+    transform: scale(0.5);
+    -webkit-transition: all, 0.5s cubic-bezier(0.215, 0.61, 0.355, 1);
+    transition: all, 0.5s cubic-bezier(0.215, 0.61, 0.355, 1);
+    position: absolute;
+    left: 12%;
+    top: 22%;
+}
+.folio-item__thumb7::after {
+    z-index: 1;
+    content: "AfterGenesysBlock  Blog of the blockchain HTML5 | CSS3 | API ";
+    font-family: var(--font-2);
+    font-weight: 300;
+    font-size: 1.5rem;
+    color: white;
+    display: block;
+    height: 103%;
+    width: 81%;
+    line-height: 32px;
+    opacity: 0;
+    visibility: hidden;
+    -webkit-transform: scale(0.5);
+    transform: scale(0.5);
+    -webkit-transition: all, 0.5s cubic-bezier(0.215, 0.61, 0.355, 1);
+    transition: all, 0.5s cubic-bezier(0.215, 0.61, 0.355, 1);
+    position: absolute;
+    left: 12%;
+    top: 22%;
+}
+.folio-item__thumb8::after {
+    z-index: 1;
+    content: "AfterGenesysBlock  Blog of the blockchain HTML5 | CSS3 | API ";
+    font-family: var(--font-2);
+    font-weight: 300;
+    font-size: 1.5rem;
+    color: white;
+    display: block;
+    height: 103%;
+    width: 81%;
+    line-height: 32px;
+    opacity: 0;
+    visibility: hidden;
+    -webkit-transform: scale(0.5);
+    transform: scale(0.5);
+    -webkit-transition: all, 0.5s cubic-bezier(0.215, 0.61, 0.355, 1);
+    transition: all, 0.5s cubic-bezier(0.215, 0.61, 0.355, 1);
+    position: absolute;
+    left: 12%;
+    top: 22%;
+}
 .folio-item img {
     display: flex;
     margin-top: 1rem;
@@ -3978,6 +4121,15 @@ input[type="button"].btn--primary:focus {
 .folio-item:hover .folio-item__thumb img {
     -webkit-transform: scale(1.05);
     transform: scale(1.05);
+}
+.project-title {
+    font-size: 1.4rem;
+    margin-left: 1.3rem;
+    font-weight: 100;
+    line-height: 2.7rem;
+    color: rgb(91, 91, 96);
+    margin-bottom: -2rem;
+    margin-top: -2rem;
 }
 
 /* ------------------------------------------------------------------- 
