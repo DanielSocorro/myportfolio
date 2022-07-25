@@ -626,6 +626,7 @@ input[type="password"], textarea {
     -webkit-box-orient: horizontal;
     -webkit-box-direction: normal;
     flex-flow: row wrap;
+    justify-content: space-evenly;
 }
 
 .row .row {
