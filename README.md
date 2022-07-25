@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Daniel Socorro</h1>
 <h3 align="center">A passionate frontend developer from Venezuela living in Chile</h3>
+<h3 align="center">and this is my portfolio, welcome</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=danielsocorro" alt="danielsocorro" /></a> </p>
 
