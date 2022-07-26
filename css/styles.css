@@ -3935,7 +3935,7 @@ input[type="button"].btn--primary:focus {
 
 .folio-item__thumb::after {
     z-index: 1;
-    content: "AFTER GENESYS BLOCK \A Blog of the blockchain \A HTML5 | CSS3 | API ";
+    content: "AfterGenesysBlock \A  Blog of the blockchain \A HTML5 | CSS3 |  API  JAVASCRIPT";
     white-space: pre-wrap;
     font-family: var(--font-2);
     font-weight: 400;
@@ -3957,7 +3957,7 @@ input[type="button"].btn--primary:focus {
 }
 .folio-item__thumb2::after {
     z-index: 1;
-    content: "TODO'S REACT APP \A Todo Signings of \A Manchester United \A HTML5 | CSS3 | REACT \A API-REST";
+    content: "TODO'S REACT APP \A Todo Signings of \A Manchester United \A HTML5 | CSS3 | REACT \A LOCAL STORAGE";
     white-space: pre-wrap;
     font-family: var(--font-2);
     font-weight: 400;
@@ -4001,7 +4001,7 @@ input[type="button"].btn--primary:focus {
 }
 .folio-item__thumb4::after {
     z-index: 1;
-    content: "SSGLOW \A E-commerce page \A HTML5 | CSS3 | JAVASCRIPT ";
+    content: "SSGLOW \A E-commerce page \A HTML5 | CSS3  JAVASCRIPT ";
     white-space: pre-wrap;
     font-family: var(--font-2);
     font-weight: 400;
@@ -4023,7 +4023,7 @@ input[type="button"].btn--primary:focus {
 }
 .folio-item__thumb5::after {
     z-index: 1;
-    content: "3D CARDS \A Cards made from Star Wars Characters \A HTML5 | CSS3 | TWEEN.JS ";
+    content: "3D CARDS \A Cards made from Star Wars Characters \A HTML5 | CSS3 | TWEEN.JS JAVASCRIPT";
     white-space: pre-wrap;
     font-family: var(--font-2);
     font-weight: 400;
@@ -4045,7 +4045,7 @@ input[type="button"].btn--primary:focus {
 }
 .folio-item__thumb6::after {
     z-index: 1;
-    content: "MOVIES PAGE \A Classic Movie Page \A connect to The Movie DB \A HTML5 | CSS3 | API ";
+    content: "MOVIES PAGE \A Classic Movie Page \A connect to The Movie DB \A HTML5 | CSS3 | REST-API JAVASCRIPT";
     white-space: pre-wrap;
     font-family: var(--font-2);
     font-weight: 400;
@@ -4067,7 +4067,7 @@ input[type="button"].btn--primary:focus {
 }
 .folio-item__thumb7::after {
     z-index: 1;
-    content: "DOGS APP  \A Favorites Dogs Page  \A HTML5 | CSS3 | API ";
+    content: "DOGS APP  \A Favorites Dogs Page  \A HTML5 | CSS3 | API  JAVASCRIPT ";
     white-space: pre-wrap;
     font-family: var(--font-2);
     font-weight: 400;
@@ -4087,29 +4087,7 @@ input[type="button"].btn--primary:focus {
     left: 15%;
     top: 17%;
 }
-.folio-item__thumb8::after {
-    z-index: 1;
-    content: "AfterGenesysBlock \A  Blog of the blockchain \A HTML5 | CSS3 | API ";
-    text-align: center;
-    white-space: pre-wrap;
-    font-family: var(--font-2);
-    font-weight: 400;
-    font-size: 1.5rem;
-    color: white;
-    display: block;
-    height: 103%;
-    width: 76%;
-    line-height: 32px;
-    opacity: 0;
-    visibility: hidden;
-    -webkit-transform: scale(0.5);
-    transform: scale(0.5);
-    -webkit-transition: all, 0.5s cubic-bezier(0.215, 0.61, 0.355, 1);
-    transition: all, 0.5s cubic-bezier(0.215, 0.61, 0.355, 1);
-    position: absolute;
-    left: 15%;
-    top: 17%;
-}
+
 .folio-item img {
     display: flex;
     margin-top: 1rem;
