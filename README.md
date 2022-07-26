@@ -8,15 +8,11 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👯 I’m looking to collaborate on **Anyone**
-
 - 👨‍💻 All of my projects are available at [https://danielsocorro-portfolio.netlify.app/](https://danielsocorro-portfolio.netlify.app/)
-
-- 💬 Ask me about **Responsive Design and Accesibility**
 
 - 📫 How to reach me **daniel.socorro.c@gmail.com**
 
-- ⚡ Fun fact **I love Star Wars, Manchester United, Tech and Science.**
+- ⚡ Fun fact **I love Star Wars, Premier League (Manchester United), Tech and Science.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
