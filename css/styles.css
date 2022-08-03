@@ -4198,7 +4198,7 @@ input[type="button"].btn--primary:focus {
     border-radius: var(--border-radius);
     padding: 0 1.4rem;
     position: absolute;
-    top: 58.5rem;
+    top: 56.5rem;
     left: 40rem;
     position: absolute;
 }
@@ -4211,7 +4211,7 @@ input[type="button"].btn--primary:focus {
     border-radius: var(--border-radius);
     padding: 0 1.4rem;
     position: absolute;
-    top: 58.5rem;
+    top: 56.5rem;
     left: 53rem;
 }
 
