@@ -3975,7 +3975,7 @@ input[type="button"].btn--primary:focus {
     transition: all, 0.5s cubic-bezier(0.215, 0.61, 0.355, 1);
     position: absolute;
     left: 15%;
-    top: 17%;
+    top: 10%;
 }
 .folio-item__thumb3::after {
     z-index: 1;
@@ -4041,7 +4041,7 @@ input[type="button"].btn--primary:focus {
     transition: all, 0.5s cubic-bezier(0.215, 0.61, 0.355, 1);
     position: absolute;
     left: 15%;
-    top: 17%;
+    top: 12%;
 }
 .folio-item__thumb6::after {
     z-index: 1;
@@ -4053,7 +4053,7 @@ input[type="button"].btn--primary:focus {
     color: white;
     display: block;
     height: 103%;
-    width: 76%;
+    width: 81%;
     line-height: 32px;
     opacity: 0;
     visibility: hidden;
@@ -4062,8 +4062,8 @@ input[type="button"].btn--primary:focus {
     -webkit-transition: all, 0.5s cubic-bezier(0.215, 0.61, 0.355, 1);
     transition: all, 0.5s cubic-bezier(0.215, 0.61, 0.355, 1);
     position: absolute;
-    left: 15%;
-    top: 17%;
+    left: 12%;
+    top: 10%;
 }
 .folio-item__thumb7::after {
     z-index: 1;
