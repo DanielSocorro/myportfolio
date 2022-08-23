@@ -4063,7 +4063,7 @@ input[type="button"].btn--primary:focus {
     transition: all, 0.5s cubic-bezier(0.215, 0.61, 0.355, 1);
     position: absolute;
     left: 12%;
-    top: 10%;
+    top: 1%;
 }
 .folio-item__thumb7::after {
     z-index: 1;
