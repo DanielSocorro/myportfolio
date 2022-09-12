@@ -4054,7 +4054,7 @@ input[type="button"].btn--primary:focus {
     display: block;
     height: 103%;
     width: 81%;
-    line-height: 32px;
+    line-height: 29px;
     opacity: 0;
     visibility: hidden;
     -webkit-transform: scale(0.5);
@@ -4063,7 +4063,7 @@ input[type="button"].btn--primary:focus {
     transition: all, 0.5s cubic-bezier(0.215, 0.61, 0.355, 1);
     position: absolute;
     left: 12%;
-    top: 1%;
+    top: 16%;
 }
 .folio-item__thumb7::after {
     z-index: 1;
