@@ -3115,7 +3115,7 @@ input[type="button"].btn--primary:focus {
  * ------------------------------------------------------------------- */
 .s-header__nav {
     font-family: var(--font-1);
-    font-size: 1.45rem;
+    font-size: 1.5rem;
     font-weight: 900;
     margin: 0;
     padding: 0;
@@ -3141,11 +3141,11 @@ input[type="button"].btn--primary:focus {
     height: var(--header-height);
     line-height: var(--header-height);
     padding: 0 1.6rem;
-    color: rgba(255, 255, 255, 0.5);
+    color: white;
 }
 
 .s-header__nav a:hover, .s-header__nav a:focus {
-    color: white;
+    color: rgb(71, 13, 217);
 }
 
 .s-header__nav .current a {
