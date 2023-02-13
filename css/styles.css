@@ -1502,8 +1502,8 @@ body {
  * ------------------------------------------------------------------- */
 a {
     color: var(--color-1);
-    -webkit-transition: all 0.3s ease-in-out;
-    transition: all 0.3s ease-in-out;
+    -webkit-transition: all 0.1s ease-in-out;
+    transition: all 0.1s ease-in-out;
 }
 
 a:hover, a:focus, a:active {
@@ -4113,6 +4113,10 @@ input[type="button"].btn--primary:focus {
     -webkit-transform: scale(1.05);
     transform: scale(1.05);
 }
+a .link {
+    display: flex;
+}
+
 .project-title {
     font-size: 1.4rem;
     margin-left: 1.3rem;
