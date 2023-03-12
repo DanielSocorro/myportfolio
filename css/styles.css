@@ -4088,6 +4088,28 @@ input[type="button"].btn--primary:focus {
     left: 15%;
     top: 17%;
 }
+.folio-item__thumb8::after {
+    z-index: 1;
+    content: "POKE API  \A POKE API PAGE  \A ANGULAR | API | Auth0";
+    white-space: pre-wrap;
+    font-family: var(--font-2);
+    font-weight: 400;
+    font-size: 1.5rem;
+    color: white;
+    display: block;
+    height: 103%;
+    width: 76%;
+    line-height: 32px;
+    opacity: 0;
+    visibility: hidden;
+    -webkit-transform: scale(0.5);
+    transform: scale(0.5);
+    -webkit-transition: all, 0.5s cubic-bezier(0.215, 0.61, 0.355, 1);
+    transition: all, 0.5s cubic-bezier(0.215, 0.61, 0.355, 1);
+    position: absolute;
+    left: 15%;
+    top: 17%;
+}
 
 .folio-item img {
     display: flex;
