@@ -3958,7 +3958,7 @@ input[type="button"].btn--primary:focus {
 }
 .folio-item__thumb2::after {
     z-index: 1;
-    content: "TODO'S REACT APP \A Todo Signings of \A Manchester United \A HTML5 | CSS3 | REACT \A LOCAL STORAGE";
+    content: "TODO'S REACT APP \A Todo Signings of \A Manchester United \A HTML5 | CSS3 | REACT \A LOCAL STORAGE | Auth0";
     white-space: pre-wrap;
     font-family: var(--font-2);
     font-weight: 400;
