@@ -4090,7 +4090,7 @@ input[type="button"].btn--primary:focus {
 }
 .folio-item__thumb8::after {
     z-index: 1;
-    content: "POKE API  \A Poke API Page  \A ANGULAR | API | Auth0";
+    content: "POKE API  \A Poke API Page  \A ANGULAR | API ";
     white-space: pre-wrap;
     font-family: var(--font-2);
     font-weight: 400;
