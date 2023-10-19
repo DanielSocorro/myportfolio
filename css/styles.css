@@ -3910,6 +3910,7 @@ input[type="button"].btn--primary:focus {
     background-color: white;
     position: relative;
     overflow: hidden;
+    height: 180px;
     border-radius: 20px;
     margin-left: 4rem;
     margin-bottom: 5rem;
